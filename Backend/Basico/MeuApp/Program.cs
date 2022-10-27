@@ -6,7 +6,8 @@ namespace MeuApp
     {
         static void Main(String[] args)
         {
-
+            Product mouse = new Product(1, "Mouse", 127.25);
+            Console.WriteLine(mouse.Id + " " + mouse.Name + " " + mouse.Price);
         }
         struct Product
         {
