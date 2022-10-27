@@ -1,0 +1,15 @@
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\obj\Debug\net6.0\MeuApp.csproj.AssemblyReference.cache
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\obj\Debug\net6.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\obj\Debug\net6.0\MeuApp.AssemblyInfoInputs.cache
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\obj\Debug\net6.0\MeuApp.AssemblyInfo.cs
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\obj\Debug\net6.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\bin\Debug\net6.0\MeuApp.exe
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\bin\Debug\net6.0\MeuApp.deps.json
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\bin\Debug\net6.0\MeuApp.runtimeconfig.json
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\bin\Debug\net6.0\MeuApp.dll
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\bin\Debug\net6.0\MeuApp.pdb
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\obj\Debug\net6.0\MeuApp.dll
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\obj\Debug\net6.0\refint\MeuApp.dll
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\obj\Debug\net6.0\MeuApp.pdb
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\obj\Debug\net6.0\MeuApp.genruntimeconfig.cache
+C:\Users\Ruan\Documents\GitHub\balta.io\Backend\Basico\MeuApp\obj\Debug\net6.0\ref\MeuApp.dll
